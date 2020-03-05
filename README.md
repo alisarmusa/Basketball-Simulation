@@ -1,4 +1,4 @@
-# Basketball-Simulation
+# Basketball Simulation
 
 # Step 1 : Open a new folder named "Basketball" on your desktop.
 # Step 2 : Download the java files and put it in the "Basketball" folder.
